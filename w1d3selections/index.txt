@@ -1,0 +1,14 @@
+    HOMEWORK PART TWO.
+
+
+   1- What happens when you forget a break while using switch statement?
+   #  the program will continue  to the next label statment until a break or reach
+
+   # statment is reached.
+
+    2- What will be the output of running following code?
+      0
+    3-  yes it will change into defoult. 
+
+
+
